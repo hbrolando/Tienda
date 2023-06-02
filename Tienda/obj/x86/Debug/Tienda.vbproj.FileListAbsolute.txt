@@ -1,0 +1,20 @@
+C:\Users\root\Desktop\project visual studio 2010\Tienda\Tienda\bin\Debug\Tienda.exe
+C:\Users\root\Desktop\project visual studio 2010\Tienda\Tienda\bin\Debug\Tienda.pdb
+C:\Users\root\Desktop\project visual studio 2010\Tienda\Tienda\bin\Debug\Tienda.xml
+C:\Users\root\Desktop\project visual studio 2010\Tienda\Tienda\obj\x86\Debug\Tienda.Resources.resources
+C:\Users\root\Desktop\project visual studio 2010\Tienda\Tienda\obj\x86\Debug\Tienda.vbproj.GenerateResource.Cache
+C:\Users\root\Desktop\project visual studio 2010\Tienda\Tienda\obj\x86\Debug\Tienda.exe
+C:\Users\root\Desktop\project visual studio 2010\Tienda\Tienda\obj\x86\Debug\Tienda.xml
+C:\Users\root\Desktop\project visual studio 2010\Tienda\Tienda\obj\x86\Debug\Tienda.pdb
+C:\Users\root\Desktop\project visual studio 2010\Tienda\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\root\Desktop\project visual studio 2010\Tienda\Tienda\obj\x86\Debug\Tienda.Form1.resources
+D:\github projects\project visual studio 2010\Tienda\Tienda\bin\Debug\Tienda.exe.config
+D:\github projects\project visual studio 2010\Tienda\Tienda\obj\x86\Debug\Tienda.exe
+D:\github projects\project visual studio 2010\Tienda\Tienda\obj\x86\Debug\Tienda.xml
+D:\github projects\project visual studio 2010\Tienda\Tienda\obj\x86\Debug\Tienda.pdb
+D:\github projects\project visual studio 2010\Tienda\Tienda\bin\Debug\Tienda.exe
+D:\github projects\project visual studio 2010\Tienda\Tienda\bin\Debug\Tienda.pdb
+D:\github projects\project visual studio 2010\Tienda\Tienda\bin\Debug\Tienda.xml
+D:\github projects\project visual studio 2010\Tienda\Tienda\obj\x86\Debug\Tienda.Form1.resources
+D:\github projects\project visual studio 2010\Tienda\Tienda\obj\x86\Debug\Tienda.Resources.resources
+D:\github projects\project visual studio 2010\Tienda\Tienda\obj\x86\Debug\Tienda.vbproj.GenerateResource.Cache
